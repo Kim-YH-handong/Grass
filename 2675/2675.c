@@ -1,8 +1,6 @@
 #include <stdio.h>
 #include <string.h>
 
-void printP(char *S, int R);
-
 int main(){
     int T, R, j=0;
     char S[20];
